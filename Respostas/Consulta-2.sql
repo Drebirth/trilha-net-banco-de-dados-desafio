@@ -1,0 +1,2 @@
+SELECT Nome,Ano,Duracao  FROM FILMES
+ORDER BY Ano ASC

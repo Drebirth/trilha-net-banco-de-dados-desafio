@@ -1,0 +1,2 @@
+SELECT Nome,Ano,Duracao  FROM FILMES
+WHERE Ano = 1997
